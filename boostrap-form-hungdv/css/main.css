@@ -1,0 +1,79 @@
+.Form-title{
+    margin-bottom: 30px;
+}
+/*Control form*/
+.Manage-form{
+    width: 96%;
+    margin-left: 2%;
+    background-color: #E9ECEF;
+    border-radius: 3px;
+    display: flex;
+    justify-content: space-between;
+}
+.Manage-form-list{
+    width: 30%;
+}
+.row{
+    width: 100%;
+    display: flex;
+
+}
+/**/
+.datepicker{
+    height: 30px;
+    width: 120px;
+    margin: 0;
+    padding: 0;
+}
+#datePickerInput{
+    border: none;
+    outline: none;
+    margin: 0;
+    height: 25px;
+    width: 110px;
+}
+/**/
+.selectControl{
+    border: none;
+    outline:     none;
+    margin: 0;
+    padding: 0;
+    height: 25px;
+    width: 50px;
+}
+.selectControlx{
+    border: none;
+    outline: none;
+    margin: 0;
+    padding: 0;
+    height: 25px;
+    width: 60px;
+}
+#textInput{
+    border: none;
+    outline: none;
+    margin: 0;
+    height: 25px;
+    width: 116px;
+}
+#textInput2{
+    border: none;
+    outline: none;
+    margin: 0;
+    height: 25px;
+    width: 230px;
+}
+
+/*Table form*/
+.table-form{
+    width: 96%;
+    margin-left: 2%;
+    border-radius: 3px;
+}
+.table-title{
+    background-color: #C1E2FC;
+}
+.table{
+    height: 550px;
+    overflow-y: auto;
+}
